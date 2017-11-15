@@ -1,10 +1,10 @@
 
 theme: jekyll-theme-dinky
-title: Title xxx
-description: And this is the textual description of your website 
+title: The State of the Union, again
+description: And this is my new textual description
 menu: [
 {'name': 'Home', 'pagename': 'index'},
-{'name': 'this a the 2nd page', 'pagename': 'page1'},
+{'name': 'sharks here !', 'pagename': 'page1'},
 {'name': 'Go there', 'pagename': 'page2'},
 {'name': 'Yet Another page', 'pagename': 'page3'},
 ]
