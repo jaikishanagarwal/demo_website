@@ -1,10 +1,10 @@
 
-theme: jekyll-theme-dinky
-title: The State of the Union, again
-description: And this is my new textual description
+theme: jekyll-theme-midnight
+title: Constitutions of the World
+description: Finding the link between the prosperity and Constitution of a nation 
 menu: [
 {'name': 'Home', 'pagename': 'index'},
-{'name': 'sharks here !', 'pagename': 'page1'},
+{'name': 'sharks here !', 'pagename': 'Constitutions of the World'},
 {'name': 'Go there', 'pagename': 'page2'},
 {'name': 'Yet Another page', 'pagename': 'page3'},
 ]
